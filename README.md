@@ -3,7 +3,7 @@
 RoblaxMod is a dedicated platform for Roblox players looking for high-quality mods, gameplay tips, tricks, and optimization guides. Our goal is to help Roblox users enhance their gaming experience with safe, updated, and easy-to-follow resources.
 
 ## 🔗 Official Website
-👉 https://roblaxmod.com
+👉 [https://roblaxmod.com/](https://roblaxmod.com)
 
 ## 📌 What We Offer
 - Roblox Mods & Custom Enhancements
